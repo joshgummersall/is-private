@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "license": "MIT",
   "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshgummersall/is-private.git"
+  },
   "bin": {
     "is-private": "./bin/is-private.js",
     "is-not-private": "./bin/is-not-private.js"
